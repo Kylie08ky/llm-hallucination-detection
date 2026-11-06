@@ -1,4 +1,4 @@
-# LLM Hallucination Detection
+# Literature research and development of a concept for avoiding hallucinations in large language models
 
 **Post-hoc risk fusion and selective LLM-as-a-judge routing for structured tool calls.**
 
