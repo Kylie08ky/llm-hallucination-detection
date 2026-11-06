@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# venv
+venv/
+.env/
+.venv/
+
+# OS
+.DS_Store
+
+# Outputs / artifacts
+results/
+results/**
+
+# Generated cases (usually large & reproducible)
+data/**/cases_json/
+data/**/cases_json/**
+
+# Optional: ignore archived datasets
+data/archive_dev/
+results/archive_dev/
+
+# Logs
+*.log
+
+# HuggingFace / transformers cache (if it appears inside repo by accident)
+.cache/
+
+# Public snapshot hygiene
+.env
+.env.*
+!.env.example
+.claude/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+*.log
+
+.pytest_cache/
+.pytest-publication-*/
+.ruff_cache/
+web/dist/

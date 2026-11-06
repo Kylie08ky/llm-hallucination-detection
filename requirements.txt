@@ -1,0 +1,32 @@
+# =========================
+# Core utilities
+# =========================
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+tqdm>=4.65
+
+# =========================
+# Configuration & schema
+# =========================
+pyyaml>=6.0
+pydantic>=1.10
+jsonschema>=4.17
+
+# =========================
+# LLM backends (HuggingFace)
+# =========================
+torch>=2.0
+transformers>=4.38
+accelerate>=0.25
+
+# =========================
+# Self-Consistency (SBERT)
+# =========================
+sentence-transformers>=2.2.2
+scikit-learn>=1.2
+
+# =========================
+# External LLM calls (Ollama via HTTP)
+# =========================
+requests>=2.31

@@ -1,0 +1,34 @@
+
+Here are two Examples:
+
+user: Drive to the right.
+answer: 
+{
+    "type": "list",
+    "call": [
+        {
+            "function_name": "drive_direction",
+            "parameters": {
+            "direction": "right"
+            }
+        }   
+    ]
+}
+
+
+user: There is a blocking on 34,57.
+answer: 
+{
+    "type": "list",
+    "call": [
+        {
+            "function_name": "add_obstacle",
+            "parameters": {
+            "x": 34,
+            "y": 57,
+            "note": "blocking"
+            }
+        }   
+    ]
+}
+

@@ -1,0 +1,17 @@
+{
+    "type": "function",
+    "function": {
+        "name": "set_radius",
+        "description": "Sets the minimal distance the car keeps to obstacles",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "radius": {
+                    "type": "float",
+                    "description": "The minimal distance the car keeps to the obstacles"
+                }
+            },
+            "required": ["radius"]
+        }
+    }
+}

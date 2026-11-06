@@ -1,0 +1,21 @@
+{
+    "type": "function",
+    "function": {
+        "name": "calculate_path",
+        "description": "Calculates a route to the a given destination",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "x": {
+                    "type": "float",
+                    "description": "x coordinate of the destination"
+                },
+                "y": {
+                    "type": "float",
+                    "description": "y coordinate of the destination"
+                }
+            },
+            "required": ["x", "y"]
+        }
+    }
+}

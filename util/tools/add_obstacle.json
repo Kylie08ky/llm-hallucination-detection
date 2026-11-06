@@ -1,0 +1,26 @@
+{
+    "type": "function",
+    "function": {
+        "name": "add_obstacle",
+        "description": "Adds an obstacle to the car's internal map",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "x": {
+                    "type": "float",
+                    "description": "x coordinate of the obstacle"
+                },
+                "y": {
+                    "type": "float",
+                    "description": "y coordinate of the obstacle"
+                },
+                "note": {
+                    "type": "string",
+                    "description": "Other notable properties of the object. \"note\" parameter is optional."
+
+                }
+            },
+            "required": ["x", "y"]
+        }
+    }
+}

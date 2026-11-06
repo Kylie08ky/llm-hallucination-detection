@@ -1,0 +1,27 @@
+fusion:
+  w_unc: 0.30
+  w_sc: 0.20
+  w_llm: 0.20
+  w_unit: 0.25
+  w_proxy: 0.05
+  final_threshold: 0.12
+
+routing:
+  thr_u: 0.160000
+
+modules:
+  proxy_metric: upstream_eq
+  proxy_threshold: 0.32
+
+  sc_enabled: true
+  sc_metric: sbert
+  sc_threshold: 0.35
+  sc_uncertainty_threshold: 0.05
+
+  llm_model: qwen2.5:3b
+  ollama_url: http://127.0.0.1:11434
+  llm_risk_threshold: 0.30
+  llm_fail_risk_floor: 0.20
+
+unit:
+  unit_route_weight: 0.30

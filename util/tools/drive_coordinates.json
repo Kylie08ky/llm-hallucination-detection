@@ -1,0 +1,21 @@
+{
+    "type": "function",
+    "function": {
+        "name": "drive_coordinates",
+        "description": "The car drives to specified coordinates [x,y]",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "x": {
+                    "type": "float",
+                    "description": "x coordinate of the destination"
+                },
+                "y": {
+                    "type": "float",
+                    "description": "y coordinate of the destination"
+                }
+            },
+            "required": ["x", "y"]
+        }
+    }
+}

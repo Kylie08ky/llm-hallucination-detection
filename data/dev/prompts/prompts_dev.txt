@@ -1,0 +1,100 @@
+Move right for 3.3 meters
+Go forward 4.5 meters to the left side
+Drive forward 6.1 meters
+Reverse slightly for 50 cm
+Move forward for 0.4 meters
+Go back for 46 cm
+Drive to the left for 3.1 meters
+Drive to the right for 48.9 cm
+Proceed forward for about 7.4 meters
+Move ahead just a bit, around 0.25 meters
+Reverse carefully for 15.6 cm
+Move forward for 5 and a half meters
+Drive backward for half a meter
+Go straight for nearly 2.1 meters
+Continue forward for 5.65 meters
+Hold your course and move forward 3.12 meters
+Move ahead for 42.4 cm
+Move forward 10.6 meters
+Drive left for 2.75 meters
+Move right for 56 cm
+Go straight ahead for 264 cm
+Move forward until it reaches 4.65 meters
+Back up slowly for 2.95 meters
+Drive forward for a short distance of 0.53 meters
+Move ahead for 42 cm
+Move forward for 3.63 meters
+Reverse for 0.95 meters
+Drive forward 2.8 meters
+Drive forward 3/10 meter
+Go back half centimeter
+Move ahead 1.42dm
+Drive back 2/3m
+Move forward 1/100m
+Reverse about half meter
+Move ahead roughly one third meter
+Drive to coordinates 12|3
+Go to 4,8.6
+Navigate to 12.2|7
+Drive to x=38, y=15.9
+Head to position 3|44.2
+Move to coordinates 18.2,26
+Reach location 5.6,8
+Drive to 13|5
+Figure out how to reach 25.2|9
+Determine the safest path to 10|2/10
+Plan a route to 6,4.69
+Think about how to get to 20.3|12
+Drive to 16.2|2
+Go to point 4.6|2.0
+Navigate to 5.3,3.98
+Reach 11,4
+Move to 6,4
+Drive to 36,8.4
+Go to 15.9,4.6
+Head straight to 9|39.2
+Move forward 5.2 meters, then turn right
+Go left for 3.6 meters and then move forward 10.2 meters
+Drive backward for 2.9 meters and turn right
+Turn right for 29 cm and then drive forward 5.6 meters
+Go left first for 2.58 meters, then proceed forward 48 cm
+Reverse slightly for 2/3 and then move forward for 52cm
+Drive forward 5.9 meters, turn right for 21.2 meters
+Reverse for 4.6 meters and proceed forward to 3|2.9
+Drive 6.5 meters to the right and continue to 6,17.4
+Move forward 5.4 meters, then turn right for 64cm
+Drive backward for 2 meters and turn right for 3.57m
+Go left for 3.68 meters and then move forward 10 meters
+Reverse for 1.9 meter and see how to reach the point 4.5|2
+Calculate the best route to 6.5|3 and then drive there
+Figure out the safest path to 4.6,8 and follow it
+Plan a route to 5.6|30 and proceed along it
+Determine how to reach 2.53|9 and go there
+Reverse slightly for 30cm and then go left for 2m
+Go left first for 2.8m, then proceed forward 87cm
+Drive forward 10.7 meters and be careful at the workers at 4,7
+Go to 4|5 and stay alert to the workers at 3.5,6
+Move to 7,39 but avoid collisions at 3,5 and 7,4
+Drive to the target at 7.7|9 and keep safe to avoid obstacle at 8,5
+Reach 12.0|7.6 and watch out for obstacles every 5.7m
+Think about how to reach 10|7.74 and avoid danger at 45,6
+Consider the safest way to 6.0,7 and proceed
+Figure out how to move to 7.9|5 carefully and go for it
+Decide how the robot should go to 2|4.6 and execute it
+Move carefully near the workers at 43,7
+Keep a minimum distance of 5 meters
+Be careful around workers at 37|5
+Avoid getting too close to obstacles at 36,7
+Keep at least one and a half meters distance
+Reach 1/2|7.6
+Plan a safe route to 33,1
+Decide how the robot should go to 4,6.24 safely
+You can’t drive through 42|8 right now
+There are many workers at 24|5
+Move ahead 5 meters and adjust by 10dm back
+Drive forward 7.6 meters and then back 0.2dm
+Go left 4.7 meters and then right 50cm
+Drive back 1.8 meter and forward 8dm
+Move ahead 3.4 meters, then reverse 25cm
+Drive forward 0.84 meters and then back 5dm
+Move left 1.4 meter and then right 12dm

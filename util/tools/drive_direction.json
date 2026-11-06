@@ -1,0 +1,21 @@
+{
+    "type": "function",
+    "function": {
+        "name": "drive_direction",
+        "description": "Car drives in a specified direction [left, right, forward, backward].",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "direction": {
+                    "type": "string",
+                    "description": "The desired direction. Can be ['left', 'right', 'forward', backward']"
+                },
+                "distance": {
+                    "type": "float",
+                    "description": "specifies how far the car drives in set direction (in metres). \"Distance\" parameter is optional."
+                }
+            },
+            "required": ["direction"]
+        }
+    }
+}
